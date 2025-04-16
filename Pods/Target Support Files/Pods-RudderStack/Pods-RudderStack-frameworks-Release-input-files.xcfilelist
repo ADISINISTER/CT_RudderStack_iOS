@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-RudderStack/Pods-RudderStack-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CleverTap-iOS-SDK/CleverTapSDK.framework
+${BUILT_PRODUCTS_DIR}/Rudder/Rudder.framework
+${BUILT_PRODUCTS_DIR}/Rudder-CleverTap/Rudder_CleverTap.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
